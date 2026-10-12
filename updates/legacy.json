@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "exit.angel.irmplegacy",
+  "edition": "legacy",
+  "versionCode": 16,
+  "versionName": "1.0.15-legacy",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.15-legacy/iRMP_1.0.15_Legacy_GitHub.apk",
+  "sha256": "b0a9875ad5c1f24ee9362397f39ed7aa64f66004be93a9fcd9a8dd86e2eb0ea2",
+  "notes": "Katalog rádií podle země nebo jazyka, kontrola nové verze a přímé stažení aktualizace na autorádiu."
+}

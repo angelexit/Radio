@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "exit.angel.irmpalpha",
+  "edition": "modern",
+  "versionCode": 32,
+  "versionName": "1.0.11",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.11/iRMP_1.0.11_Final_GitHub_Updates.apk",
+  "notes": "Kontrola nové verze podle GitHubu a položka O aplikaci v hlavní nabídce.",
+  "sha256": "c77fced8270e9cf564122bed07c408a4b3af4ad4b564e9c4135505546226b7a9"
+}
