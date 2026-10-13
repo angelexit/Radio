@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmpalpha",
   "edition": "modern",
-  "versionCode": 34,
-  "versionName": "1.0.13",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.13/iRMP_1.0.13_Final_Backup_Streams.apk",
-  "notes": "Záložní HTTPS streamy pod jedním rádiem: automatické přepnutí při potížích a chyba po vyčerpání adres. Zadávání přes Upravit rádio.",
-  "sha256": "0432488d38ac9de3a1993986d07ee61ebf8850b3d68f948174d78749a6fe445b"
+  "versionCode": 36,
+  "versionName": "1.0.14",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.14/iRMP_1.0.14_Final_TLS.apk",
+  "notes": "Doplněné důvěryhodné certifikační autority pro HTTPS, při zachování ověřování platnosti a názvu serveru.",
+  "sha256": "79679a9704920c861b53e83b4d54de0dc55e86863e80a6d223046165618ba23f"
 }

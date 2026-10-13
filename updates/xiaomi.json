@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "exit.angel.irmpalpha",
+  "edition": "xiaomi",
+  "versionCode": 35,
+  "versionName": "1.0.6",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.6-xiaomi/iRMP_1.0.6_Xiaomi_GitHub_Backup_Streams.apk",
+  "notes": "GitHub katalog, kontrola aktualizací vlastní edice, záložní streamy a doplněné certifikační autority. Wi-Fi a režim zásuvky zachovány.",
+  "sha256": "2df26f8b704fbb173ea1f891ec5593f08a1e49f13b584563a315540231f4dda3"
+}

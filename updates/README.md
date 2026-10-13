@@ -15,3 +15,5 @@ První verze s kontrolou je 1.0.11 (build 32). Starší instalace ji samy neohl�
 Legacy čte updates/legacy.json. Zachovejte applicationId exit.angel.irmplegacy, edition legacy. První verze s aktualizacemi je 1.0.15-legacy (build 16). U nových verzí zvyšte versionCode, zveřejněte APK ve vlastní GitHub Release a aktualizujte versionName, downloadUrl, sha256 a notes. sha256 je SHA-256 přesného finálního APK souboru. APK musí mít původní podpis a stejnou identitu aplikace.
 
 Na Androidu 4.1–4.4 aplikace stáhne APK sama přes ověřené HTTPS, ověří SHA-256, identitu, vyšší build a podpis a otevře instalátor Androidu. Není potřeba Windows ani Odblokovat. Android stále vyžaduje povolení instalace z neznámých zdrojů a potvrzení instalace. Na Androidu 7+ Legacy otevře stažení v prohlížeči. Moderní a Legacy vydávejte odděleně.
+
+Xiaomi má vlastní metadata xiaomi.json s edition=xiaomi. Modern a Xiaomi sdílejí applicationId exit.angel.irmpalpha, proto používejte rostoucí kódy napříč oběma edicemi (aktuálně Xiaomi 35, Modern 36; další vydání alespoň 37). Legacy má samostatnou identitu a aktuální kód 17.

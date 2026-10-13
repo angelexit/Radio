@@ -10,7 +10,7 @@ Moderní iRMP 1.0.12 zobrazuje známé země a jazyky podle jazyka rozhraní (cs
 
 ## Záložní streamy (Modern od 1.0.13)
 
-`stream_url` zůstává hlavní adresa. Volitelné `backup_streams` je pole dalších HTTPS adres stejné stanice. Starší seznamy s jedinou adresou jsou kompatibilní. Legacy a Xiaomi zatím automatické přepínání nepodporují.
+`stream_url` zůstává hlavní adresa. Volitelné `backup_streams` je pole dalších HTTPS adres stejné stanice. Starší seznamy s jedinou adresou jsou kompatibilní. Automatické přepínání podporují i Legacy od 1.0.16 a Xiaomi od 1.0.6.
 
 ```json
 {
