@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmpalpha",
   "edition": "modern",
-  "versionCode": 36,
-  "versionName": "1.0.14",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.14/iRMP_1.0.14_Final_TLS.apk",
-  "notes": "Doplněné důvěryhodné certifikační autority pro HTTPS, při zachování ověřování platnosti a názvu serveru.",
-  "sha256": "79679a9704920c861b53e83b4d54de0dc55e86863e80a6d223046165618ba23f"
+  "versionCode": 38,
+  "versionName": "1.0.15",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.15/iRMP_1.0.15_Final_Empty_List.apk",
+  "notes": "Bez vestavěného seznamu rádií. Nová instalace začíná prázdná; uložený seznam včetně prázdného se nepřepisuje. Stanice přidávejte z katalogu GitHub.",
+  "sha256": "ba02cedd038170a9206716057e6059da74ad305dfce20799914a11f8c864faa4"
 }

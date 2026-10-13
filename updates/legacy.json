@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmplegacy",
   "edition": "legacy",
-  "versionCode": 17,
-  "versionName": "1.0.16-legacy",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.16-legacy/iRMP_1.0.16_Legacy_Backup_Streams.apk",
-  "notes": "Záložní HTTPS streamy pod jednou stanicí, automatické přepnutí při potížích a chyba po vyčerpání adres.",
-  "sha256": "506d467961390e1fe43f9122ce511541ab7426c31e2cc615f23c97149f3de8fe"
+  "versionCode": 18,
+  "versionName": "1.0.17-legacy",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.17-legacy/iRMP_1.0.17_Legacy_Empty_List.apk",
+  "notes": "Bez vestavěného seznamu rádií. Nová instalace začíná prázdná; uložený seznam včetně prázdného se nepřepisuje. Stanice přidávejte z katalogu GitHub.",
+  "sha256": "349a832520f7b3bbe70dcc27ec579d37c4d455185cc4f4d4e7345741d954315a"
 }

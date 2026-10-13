@@ -16,4 +16,4 @@ Legacy čte updates/legacy.json. Zachovejte applicationId exit.angel.irmplegacy,
 
 Na Androidu 4.1–4.4 aplikace stáhne APK sama přes ověřené HTTPS, ověří SHA-256, identitu, vyšší build a podpis a otevře instalátor Androidu. Není potřeba Windows ani Odblokovat. Android stále vyžaduje povolení instalace z neznámých zdrojů a potvrzení instalace. Na Androidu 7+ Legacy otevře stažení v prohlížeči. Moderní a Legacy vydávejte odděleně.
 
-Xiaomi má vlastní metadata xiaomi.json s edition=xiaomi. Modern a Xiaomi sdílejí applicationId exit.angel.irmpalpha, proto používejte rostoucí kódy napříč oběma edicemi (aktuálně Xiaomi 35, Modern 36; další vydání alespoň 37). Legacy má samostatnou identitu a aktuální kód 17.
+Xiaomi má vlastní metadata xiaomi.json s edition=xiaomi. Modern a Xiaomi sdílejí applicationId exit.angel.irmpalpha, proto používejte rostoucí kódy napříč oběma edicemi (aktuálně Xiaomi 37, Modern 38; další vydání alespoň 39). Legacy má samostatnou identitu a aktuální kód 18.

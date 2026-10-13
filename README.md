@@ -1,9 +1,9 @@
 # iRMP — Internet Radio Metadata Player
 
-- [Xiaomi Android 10 1.0.6](https://github.com/angelexit/Radio/releases/tag/v1.0.6-xiaomi)
+- [Xiaomi Android 10 1.0.7](https://github.com/angelexit/Radio/releases/tag/v1.0.7-xiaomi)
 
-- [Moderní Android 1.0.14](https://github.com/angelexit/Radio/releases/tag/v1.0.14)
-- [Legacy Android 4.1–4.4 1.0.16](https://github.com/angelexit/Radio/releases/tag/v1.0.16-legacy)
+- [Moderní Android 1.0.15](https://github.com/angelexit/Radio/releases/tag/v1.0.15)
+- [Legacy Android 4.1–4.4 1.0.17](https://github.com/angelexit/Radio/releases/tag/v1.0.17-legacy)
 
 APK správné edice instalujte přes dosavadní verzi bez odinstalace. Moderní a Legacy jsou odlišné aplikace.
 
@@ -24,3 +24,7 @@ Sestavení a podpisy ověřeny. Nový postup aktualizace Legacy zatím nebyl vyz
 Xiaomi a Modern sdílejí Android identitu a podpis, instalují se jako alternativní edice téže aplikace. Jejich kontroly aktualizací čtou samostatná metadata; Xiaomi nepřebírá Modern aktualizace. První přechod Xiaomi 1.0.5 → 1.0.6 vyžaduje ruční instalaci.
 
 Záložní streamy podporují Modern 1.0.13+, Xiaomi 1.0.6+ a Legacy 1.0.16+. V Upravit rádio/stanici vložte další HTTPS adresy stejné stanice, jednu na řádek. Po vyčerpání všech adres se přehrávání zastaví s chybou.
+
+## Prázdný seznam a zachování dat
+
+Nová instalace nemá vestavěný seznam stanic. Rádia přidává uživatel přes GitHub katalog; katalog nenahrazuje uložené stanice. Instalace aktualizace přes dosavadní aplikaci zachovává seznam včetně záměrně prázdného seznamu. Spuštění aplikace uložený seznam nepřepisuje ani nedoplňuje výchozí stanice. Odinstalace či vymazání dat Androidu může vlastní seznam odstranit — před tím seznam exportujte.
