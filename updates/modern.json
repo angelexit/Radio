@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmpalpha",
   "edition": "modern",
-  "versionCode": 33,
-  "versionName": "1.0.12",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.12/iRMP_1.0.12_Final_Catalog_Languages.apk",
-  "notes": "Názvy zemí a jazyků v katalogu podle jazyka aplikace: čeština, němčina a angličtina. Výběr a uložené stanice zůstávají zachované.",
-  "sha256": "96fc1181881196ec53bcd0825794d966b549f4fb12448c2cc014738bff8c1bb2"
+  "versionCode": 34,
+  "versionName": "1.0.13",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.13/iRMP_1.0.13_Final_Backup_Streams.apk",
+  "notes": "Záložní HTTPS streamy pod jedním rádiem: automatické přepnutí při potížích a chyba po vyčerpání adres. Zadávání přes Upravit rádio.",
+  "sha256": "0432488d38ac9de3a1993986d07ee61ebf8850b3d68f948174d78749a6fe445b"
 }

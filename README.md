@@ -1,6 +1,6 @@
 # iRMP — Internet Radio Metadata Player
 
-- [Moderní Android 1.0.12](https://github.com/angelexit/Radio/releases/tag/v1.0.12)
+- [Moderní Android 1.0.13](https://github.com/angelexit/Radio/releases/tag/v1.0.13)
 - [Legacy Android 4.1–4.4 1.0.15](https://github.com/angelexit/Radio/releases/tag/v1.0.15-legacy)
 
 APK správné edice instalujte přes dosavadní verzi bez odinstalace. Moderní a Legacy jsou odlišné aplikace.
