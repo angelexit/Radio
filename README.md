@@ -3,7 +3,7 @@
 - [Xiaomi Android 10 1.0.7](https://github.com/angelexit/Radio/releases/tag/v1.0.7-xiaomi)
 
 - [Moderní Android 1.0.15](https://github.com/angelexit/Radio/releases/tag/v1.0.15)
-- [Legacy Android 4.1–4.4 1.0.18](https://github.com/angelexit/Radio/releases/tag/v1.0.18-legacy)
+- [Legacy Android 4.1–4.4 1.0.19](https://github.com/angelexit/Radio/releases/tag/v1.0.19-legacy)
 
 APK správné edice instalujte přes dosavadní verzi bez odinstalace. Moderní a Legacy jsou odlišné aplikace.
 
