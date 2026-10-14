@@ -3,7 +3,7 @@
 - [Xiaomi Android 10 1.0.7](https://github.com/angelexit/Radio/releases/tag/v1.0.7-xiaomi)
 
 - [Moderní Android 1.0.15](https://github.com/angelexit/Radio/releases/tag/v1.0.15)
-- [Legacy Android 4.1–4.4 1.0.20](https://github.com/angelexit/Radio/releases/tag/v1.0.20-legacy)
+- [Legacy Android 4.1–4.4 1.0.21](https://github.com/angelexit/Radio/releases/tag/v1.0.21-legacy)
 
 APK správné edice instalujte přes dosavadní verzi bez odinstalace. Moderní a Legacy jsou odlišné aplikace.
 
@@ -32,3 +32,5 @@ Nová instalace nemá vestavěný seznam stanic. Rádia přidává uživatel př
 Legacy 1.0.18 automaticky načítá katalog při otevření. Horní lišta stanic má v Menu → Zvuk a přehrávání volbu Zastavit na konci / Opakovat ve smyčce (výchozí opakování), platnou pro šipky a přejetí na kraji.
 
 Legacy 1.0.20: dlouhým stiskem dlaždice a přetažením lze změnit pořadí stanic. Levá polovina cílové dlaždice vloží před ni, pravá za ni. Držení u kraje posouvá lištu, puštění mimo ni přesun zruší. Pořadí se ukládá bez přerušení právě hrajícího rádia.
+
+Legacy 1.0.21 při přetažení rozevírá mezeru mezi stanicemi a ukazuje místo vložení oranžovou čárou. Náhled po puštění nebo zrušení zmizí.

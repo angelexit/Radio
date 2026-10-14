@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmplegacy",
   "edition": "legacy",
-  "versionCode": 21,
-  "versionName": "1.0.20-legacy",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.20-legacy/iRMP_1.0.20_Legacy_Drag_Stations.apk",
-  "notes": "Přesouvání rádií v horní liště dlouhým stiskem a přetažením. Pořadí se uloží, přehrávání se nemění. U kraje lišta automaticky roluje.",
-  "sha256": "66474f8598eb559a7d7be86db8f03236688fbec7cced24a69eca93cfbbbe1fce"
+  "versionCode": 22,
+  "versionName": "1.0.21-legacy",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.21-legacy/iRMP_1.0.21_Legacy_Insertion_Gap.apk",
+  "notes": "Při přetahování stanice se rozevře mezera a oranžová čára ukáže přesné místo vložení. Po puštění nebo zrušení se lišta srovná.",
+  "sha256": "9ccd6d140dfc45c9c8f34303527c918151a8634a096dc6ffc4c292618294ed26"
 }
