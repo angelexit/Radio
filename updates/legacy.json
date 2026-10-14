@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmplegacy",
   "edition": "legacy",
-  "versionCode": 18,
-  "versionName": "1.0.17-legacy",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.17-legacy/iRMP_1.0.17_Legacy_Empty_List.apk",
-  "notes": "Bez vestavěného seznamu rádií. Nová instalace začíná prázdná; uložený seznam včetně prázdného se nepřepisuje. Stanice přidávejte z katalogu GitHub.",
-  "sha256": "349a832520f7b3bbe70dcc27ec579d37c4d455185cc4f4d4e7345741d954315a"
+  "versionCode": 19,
+  "versionName": "1.0.18-legacy",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.18-legacy/iRMP_1.0.18_Legacy_Catalog_Rail.apk",
+  "notes": "Automatické načtení GitHub katalogu, přesnější chyby spojení a volitelné opakování horní lišty stanic. Nastavení: Zvuk a přehrávání → Horní lišta stanic.",
+  "sha256": "21416dd3d1ead1a85ca2858136bd763526ccc6b2a82d903f51df88b13230774e"
 }
