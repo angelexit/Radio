@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmplegacy",
   "edition": "legacy",
-  "versionCode": 20,
-  "versionName": "1.0.19-legacy",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.19-legacy/iRMP_1.0.19_Legacy_Smooth_Rail.apk",
-  "notes": "Plynulé pokračování horní lišty za poslední stanicí k první, bez skoku zpět. Opakování i zastavení na konci zůstává volitelné.",
-  "sha256": "5f016b306ecffafa4507335fab67bb4510586517c0212cee5d6e32253ed0d264"
+  "versionCode": 21,
+  "versionName": "1.0.20-legacy",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.20-legacy/iRMP_1.0.20_Legacy_Drag_Stations.apk",
+  "notes": "Přesouvání rádií v horní liště dlouhým stiskem a přetažením. Pořadí se uloží, přehrávání se nemění. U kraje lišta automaticky roluje.",
+  "sha256": "66474f8598eb559a7d7be86db8f03236688fbec7cced24a69eca93cfbbbe1fce"
 }
