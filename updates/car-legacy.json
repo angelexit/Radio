@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car.legacy",
   "edition": "car-legacy",
-  "versionCode": 106,
-  "versionName": "1.1.6",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.6-legacy-kitkat-test/iRMP-Car-Legacy-1.1.6-KitKat-Fix.apk",
-  "sha256": "8ce8f5d62aa5cb2362a58ebe05ecc47fc82ddeea6426ab67a0f214d3e65ac2ec",
-  "notes": "Opraveno předání APK instalátoru Android 4.1/4.4: ověřený soubor místo nepodporovaného content URI. Vzhled a data zachované."
+  "versionCode": 107,
+  "versionName": "1.1.7",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.7-legacy-update-test/iRMP-Car-Legacy-1.1.7-Update-Test.apk",
+  "sha256": "374a178f92ecd9c9b5eab3fa5c0a5e4aa90ee430d3972f3603548a92961486d9",
+  "notes": "Test aktualizace1.1.6 →1.1.7. Kód stejný jako1.1.6, pouze vyšší verze107. Potvrďte instalaci v Androidu; stanice a nastavení zůstávají."
 }
