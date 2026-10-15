@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car",
   "edition": "car",
-  "versionCode": 111,
-  "versionName": "1.1.11",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.11-car-motion/iRMP-Car-1.1.11.apk",
-  "sha256": "4b00ed19fd085017dd909b5d8521590d605b84ae583851cd5b5d97293419b763",
-  "notes": "Animace aktivní stanice: zvětšení, poskočení, zhoupnutí a přetočení; volitelné vypnutí. Pevné dotykové plochy."
+  "versionCode": 112,
+  "versionName": "1.1.12",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.12-car-display/iRMP-Car-1.1.12.apk",
+  "sha256": "51401a77a42f4f7147721e4a32640194ad03b83a862fbdb16081113eca14bf65",
+  "notes": "Menu → Vzhled → Nezhasínat displej. Ve výchozím stavu zapnuto, platí při otevřené Car."
 }
