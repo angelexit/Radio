@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car",
   "edition": "car",
-  "versionCode": 102,
-  "versionName": "1.1.2",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.2-installer-test/iRMP-Car-1.1.2-Installer.apk",
-  "sha256": "58ff1a68d5ad6ac53ccf784f54eed9473d359333a444454bf4c6ebfcbe6e95d5",
-  "notes": "Opraveno pokračování instalace po nastavení neznámých zdrojů, zejména Car Legacy na novém Androidu. Ověřená APK zůstává pro opakování bez dalšího stažení."
+  "versionCode": 110,
+  "versionName": "1.1.10",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.10-car-appearance/iRMP-Car-1.1.10.apk",
+  "sha256": "e96f1feb097499098d00247e822f7b1dcd9bf8f1c94bf6c6e4e18fa2135aa16e",
+  "notes": "Nová nabídka Vzhled, styly stanic i přehrávání, ostrá loga s nativním stínem, volitelné stíny karet a odezva dotyku."
 }
