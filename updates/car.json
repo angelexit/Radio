@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car",
   "edition": "car",
-  "versionCode": 110,
-  "versionName": "1.1.10",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.10-car-appearance/iRMP-Car-1.1.10.apk",
-  "sha256": "e96f1feb097499098d00247e822f7b1dcd9bf8f1c94bf6c6e4e18fa2135aa16e",
-  "notes": "Nová nabídka Vzhled, styly stanic i přehrávání, ostrá loga s nativním stínem, volitelné stíny karet a odezva dotyku."
+  "versionCode": 111,
+  "versionName": "1.1.11",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.11-car-motion/iRMP-Car-1.1.11.apk",
+  "sha256": "4b00ed19fd085017dd909b5d8521590d605b84ae583851cd5b5d97293419b763",
+  "notes": "Animace aktivní stanice: zvětšení, poskočení, zhoupnutí a přetočení; volitelné vypnutí. Pevné dotykové plochy."
 }
