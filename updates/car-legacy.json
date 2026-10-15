@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car.legacy",
   "edition": "car-legacy",
-  "versionCode": 108,
-  "versionName": "1.1.8",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.8-legacy-storage-test/iRMP-Car-Legacy-1.1.8-Storage-Fix.apk",
-  "sha256": "111c577f4e66e34ff620913e4d2cc3e3f6120952ed735c78bb44ccf00f18bbb2",
-  "notes": "Oprava EACCES při přípravě APK na starém autorádiu. Doplněné oprávnění úložiště pro starý firmware a ověřená náhradní umístění APK."
+  "versionCode": 109,
+  "versionName": "1.1.9",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.9-legacy-update-test/iRMP-Car-Legacy-1.1.9-Update-Test.apk",
+  "sha256": "073e64581cd2f639fbf26ed1dbf1131f188ee0bc6761a1be25da52546c11a3ba",
+  "notes": "Test přechodu 1.1.8 → 1.1.9 přes interní aktualizátor. Kód stejný jako 1.1.8, pouze vyšší verze 109."
 }
