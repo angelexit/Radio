@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "exit.angel.irmp.car",
+  "edition": "car",
+  "versionCode": 101,
+  "versionName": "1.1.1",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.1-car-test/iRMP-Car-1.1.1-Bubble.apk",
+  "sha256": "ca3791cb7c1b028fdee0a131007fdf7685f13159becf844530fd81b326f57c8f",
+  "notes": "Větší bubble aktivní stanice v horní liště, výraznější logo a jemná barevná kontura. Posouvání a přesouvání zachováno."
+}
