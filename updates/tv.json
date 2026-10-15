@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "exit.angel.irmp.tv",
+  "edition": "tv",
+  "versionCode": 102,
+  "versionName": "1.1.2",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.2-installer-test/iRMP-TV-1.1.2-Installer.apk",
+  "sha256": "05cee0bba89e9a902590ca0c3dc5cade5b54c94203b745dbf27234c1115f09aa",
+  "notes": "Opraveno pokračování instalace po nastavení neznámých zdrojů, zejména Car Legacy na novém Androidu. Ověřená APK zůstává pro opakování bez dalšího stažení."
+}

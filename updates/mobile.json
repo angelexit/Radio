@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "exit.angel.irmp.mobile",
+  "edition": "mobile",
+  "versionCode": 102,
+  "versionName": "1.1.2",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.2-installer-test/iRMP-Mobile-1.1.2-Installer.apk",
+  "sha256": "0e7c4adb2c05f424e7deccdf65a8a22ec431cfcf847f3dbfdc5d8a1f4397ffbb",
+  "notes": "Opraveno pokračování instalace po nastavení neznámých zdrojů, zejména Car Legacy na novém Androidu. Ověřená APK zůstává pro opakování bez dalšího stažení."
+}
