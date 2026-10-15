@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car.legacy",
   "edition": "car-legacy",
-  "versionCode": 104,
-  "versionName": "1.1.4",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.4-legacy-appearance-test/iRMP-Car-Legacy-1.1.4-Appearance.apk",
-  "sha256": "9cdfa9eba709e5e41ef8a8871e9f322ef90853b1396145cae28026babc65af5f",
-  "notes": "Nová nabídka Vzhled: volba rámečků, podtržení nebo bez; samostatně stanice a přehrávání. Volitelné stíny, odlesk a zvětšení loga. Nastavení se ukládá."
+  "versionCode": 105,
+  "versionName": "1.1.5",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.5-legacy-logo-test/iRMP-Car-Legacy-1.1.5-Logo-Fix.apk",
+  "sha256": "cc5605f5851de70bca73ebbb226f3e0c50e81e943817107ecb8113247a74b862",
+  "notes": "Opraveno zmenšování log při stínování. Efekt nemění velikost ani matici loga; stejné filtrování obrázku se stínem i bez."
 }
