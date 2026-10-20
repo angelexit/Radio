@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car",
   "edition": "car",
-  "versionCode": 117,
-  "versionName": "1.1.17",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.17-car-settings/iRMP-Car-1.1.17.apk",
-  "sha256": "3b1f02313815ba5c675e309b26e323bc584adc8f7f3e2c1ec4f25e64f6044395",
-  "notes": "Oprava českých HTML entit v názvech skladeb. Car: nové Nastavení s odděleným Přehráváním a Zvukem, automatickým pokračováním a testem volantu."
+  "versionCode": 118,
+  "versionName": "1.1.18",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.18-car-focus/iRMP-Car-1.1.18.apk",
+  "sha256": "61fe918e0743ed0ad104a97e612f327433c05ff9828f3b4ca7dca89ff1ca5b9d",
+  "notes": "Výrazně zvýrazněná vybraná položka v nabídce, výběr šipkami nahoru/dolů, potvrzení OK a návrat Zpět."
 }
