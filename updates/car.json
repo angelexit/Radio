@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car",
   "edition": "car",
-  "versionCode": 120,
-  "versionName": "1.1.20",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.20-car-ok-home/iRMP-Car-1.1.20.apk",
-  "sha256": "81817603f13aff3cdb33f03707890a0e17924dd87424e4d5fa70d7994ec649d1",
-  "notes": "Lišta nabídek ▲ · ▼ · OK · ⌂: samostatné potvrzení zvýrazněné položky a návrat na hlavní obrazovku."
+  "versionCode": 121,
+  "versionName": "1.1.21",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.21-car-back-home/iRMP-Car-1.1.21.apk",
+  "sha256": "5b52f8e5e049e425597b78ce1c0cc097a6962ae3268026b81ffb52c6d78adb9b",
+  "notes": "Krátký stisk Zpět vrací předchozí nabídku, dlouhý dotyk vrací přehrávač. OK potvrzuje vybranou položku."
 }
