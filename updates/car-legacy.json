@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car.legacy",
   "edition": "car-legacy",
-  "versionCode": 109,
-  "versionName": "1.1.9",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.9-legacy-update-test/iRMP-Car-Legacy-1.1.9-Update-Test.apk",
-  "sha256": "073e64581cd2f639fbf26ed1dbf1131f188ee0bc6761a1be25da52546c11a3ba",
-  "notes": "Test přechodu 1.1.8 → 1.1.9 přes interní aktualizátor. Kód stejný jako 1.1.8, pouze vyšší verze 109."
+  "versionCode": 115,
+  "versionName": "1.1.15",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.15-car-buffer/iRMP-Car-Legacy-1.1.15.apk",
+  "sha256": "6942e335724fe78a27b33922e8eb331beca42f2d4acc05c39d0ce5de049223dc",
+  "notes": "Nastavitelný buffer Auto / přibližně 2, 5, 10, 20 s s vysvětlením delšího startu. Obnovení stejné stanice i po dlouhém výpadku internetu, respektuje ruční STOP."
 }
