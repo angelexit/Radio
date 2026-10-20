@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car",
   "edition": "car",
-  "versionCode": 113,
-  "versionName": "1.1.13",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.13-car-surfaces/iRMP-Car-1.1.13.apk",
-  "sha256": "ed48f40929063344bf2baf8e03f0464137371c7dce0eb62e927d9b8eb9d72418",
-  "notes": "Podbarvení chipů nezávisle na rámečcích a podtržení. Obrázek přes celou kartu se zaoblenými rohy, volitelně bez ořezu."
+  "versionCode": 114,
+  "versionName": "1.1.14",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.14-car-controls/iRMP-Car-1.1.14.apk",
+  "sha256": "119f40ae577ff188cb8a08a88e94ed8c3617f30021342931bb63ee452cb34bc9",
+  "notes": "Nové rolovatelné nabídky s tlačítky posunu a moderní MediaSession pro volant; přehled přijatých událostí v Menu."
 }
