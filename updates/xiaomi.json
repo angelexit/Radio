@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmpalpha",
+  "packageId": "exit.angel.irmpalpha.xiaomi",
   "edition": "xiaomi",
-  "versionCode": 37,
-  "versionName": "1.0.7",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.7-xiaomi/iRMP_1.0.7_Xiaomi_Empty_List.apk",
-  "notes": "Bez vestavěného seznamu rádií. Nová instalace začíná prázdná; uložený seznam včetně prázdného se nepřepisuje. Stanice přidávejte z katalogu GitHub.",
-  "sha256": "47347b7b4a49e1854a53a1685d0e323d8e830bdab60117a48e1f6501e7266345"
+  "versionCode": 39,
+  "versionName": "1.0.8",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.8-xiaomi-outlet/iRMP-Xiaomi-1.0.8.apk",
+  "sha256": "27b2ff8432e28812c0aae658846dd2adb87e51ecc6d6a93ea7fc98d9823091fd",
+  "notes": "Oprava pokračování po zapnutí zásuvky: čekání na připojení internetu a obnovení poslední hrající stanice v libovolném profilu. Ruční STOP se respektuje."
 }
