@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.tv",
   "edition": "tv",
-  "versionCode": 102,
-  "versionName": "1.1.2",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.2-installer-test/iRMP-TV-1.1.2-Installer.apk",
-  "sha256": "05cee0bba89e9a902590ca0c3dc5cade5b54c94203b745dbf27234c1115f09aa",
-  "notes": "Opraveno pokračování instalace po nastavení neznámých zdrojů, zejména Car Legacy na novém Androidu. Ověřená APK zůstává pro opakování bez dalšího stažení."
+  "versionCode": 116,
+  "versionName": "1.1.16",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.16-tv-remote/iRMP-TV-1.1.16.apk",
+  "sha256": "9e2c9d785764681d72267ac759f69b3f912cf6d03f7986338217838318bc4ad6",
+  "notes": "Dálkové ovládání šipkami, volitelný kurzor, přímá kontrola a interní aktualizace bez prohlížeče."
 }
