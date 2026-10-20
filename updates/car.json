@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "applicationId": "exit.angel.irmp.car",
   "edition": "car",
-  "versionCode": 119,
-  "versionName": "1.1.19",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.19-car-tap/iRMP-Car-1.1.19.apk",
-  "sha256": "13f2a03fcb9ac3910f88c7dad1c41fc2a41ccf35711571687326be6da813d95a",
-  "notes": "Oprava prvního dotyku v menu: Hotovo a další ovládací prvky reagují bez nutnosti druhého klepnutí, zvýraznění a klávesové ovládání zachovány."
+  "versionCode": 120,
+  "versionName": "1.1.20",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.1.20-car-ok-home/iRMP-Car-1.1.20.apk",
+  "sha256": "81817603f13aff3cdb33f03707890a0e17924dd87424e4d5fa70d7994ec649d1",
+  "notes": "Lišta nabídek ▲ · ▼ · OK · ⌂: samostatné potvrzení zvýrazněné položky a návrat na hlavní obrazovku."
 }
