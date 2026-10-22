@@ -3,9 +3,9 @@
   "applicationId": "exit.angel.irmpalpha",
   "packageId": "exit.angel.irmpalpha.xiaomi",
   "edition": "xiaomi",
-  "versionCode": 40,
-  "versionName": "1.0.9",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.9-xiaomi-network/iRMP-Xiaomi-1.0.9.apk",
-  "sha256": "d1acd73930503e1345b1e87e8e8dd461f3a410cb2a35427509591958671e3609",
-  "notes": "Obnovení stejné stanice po přepnutí na hlídanou Wi-Fi, trvalé síťové pokusy se zachováním STOP a interní stahování/ověření aktualizací bez prohlížeče."
+  "versionCode": 41,
+  "versionName": "1.0.10",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.10-xiaomi-camera/iRMP-Xiaomi-1.0.10.apk",
+  "sha256": "4e5e80b5b02e00ea956c0d0b08c378844a13592da9b407d70af10b490dcfc2f6",
+  "notes": "Upozornění kamery do rádia. Samostatná volba pohybu a hlídání spojení (standardně jen pohyb), tři vlastní WAV a hlasitost tónu. Bez pauzy rádia. Nastavení → Kamera – upozornění."
 }
