@@ -3,9 +3,9 @@
   "applicationId": "exit.angel.irmpalpha",
   "packageId": "exit.angel.irmpalpha.xiaomi",
   "edition": "xiaomi",
-  "versionCode": 41,
-  "versionName": "1.0.10",
-  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.10-xiaomi-camera/iRMP-Xiaomi-1.0.10.apk",
-  "sha256": "4e5e80b5b02e00ea956c0d0b08c378844a13592da9b407d70af10b490dcfc2f6",
-  "notes": "Upozornění kamery do rádia. Samostatná volba pohybu a hlídání spojení (standardně jen pohyb), tři vlastní WAV a hlasitost tónu. Bez pauzy rádia. Nastavení → Kamera – upozornění."
+  "versionCode": 42,
+  "versionName": "1.0.11",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/v1.0.11-xiaomi-camera-card/iRMP-Xiaomi-1.0.11.apk",
+  "sha256": "c57d0710e3fcd61c1d2022527751172a830105bba03dc189917a7fb16eb9b318",
+  "notes": "Oprava rozložení rádia. Samostatná karta Kamera v nabídce; nastavení kamery pouze v Nastavení. Při nové detekci krátký žlutý překryv pravé karty, potom návrat k původní slideshow. Doba překryvu 3–15 s, výchozí 8 s; lze vypnout. Nastavení ani staré události se nepřekrývají. Jen pracovní Xiaomi."
 }
