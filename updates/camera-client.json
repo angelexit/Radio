@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "cz.irmp.cameraclient",
+  "edition": "camera-client",
+  "versionCode": 4,
+  "versionName": "0.7",
+  "downloadUrl": "https://github.com/angelexit/Radio/releases/download/camera-client-v0.7/Kamera-Klient-Android-0.7.apk",
+  "sha256": "6d02f7b8e35c50ef67448dd806f845c320629a3b378a95bf458b2b01461e8d57",
+  "notes": "Vestavěné ICQ a 4 zvuky Windows, hlasitost upozornění 0–100 %, oprava spodního okraje a posouvání, aktualizační kanál klienta Kamera."
+}
